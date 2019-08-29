@@ -17,4 +17,8 @@ I'm writing this in markdown format so I can use two * symbols to indicate **bol
 
 And if I use a single * around some text...  *it prints out italicized*
 
+###Dawgs are the best
+
+![dawg]({static}/images/dawg.jpg)
+
 The end! Yeet!
